@@ -7,6 +7,7 @@
 /* svg */
 svg{
     width: 45px !important;
+    color: rgb(2505, 200, 0);
 }
 
 /* p */
@@ -24,19 +25,39 @@ p.cinfo{
     padding: 0px !important;
 }
 
+p.desenvolvendo{
+    font-size: 21px !important;
+}
+
 /* h3 */
 h3.subhead-trabalhos {
     font-size: 50px !important;
-    color: #39b54a;
+    color: #e5ff00;
 }
 
 h3.subhead-clientes{
-    font-size: 50px;
+    font-size: 45px;
+    background-image: linear-gradient(to bottom, rgb(2505, 200, 0), rgb(255, 210, 0), rgb(255, 180, 0));
+    color: black;
+    background-clip: text;
+    -webkit-background-clip: text;
+  
+    /* Adicionado: */
+    -webkit-text-fill-color: transparent;
 }
 
 h3.subhead-contato {
     font-size: 35px !important;
-    color: #39b54a;
+    color: #e5ff00;
+}
+
+h3.subhead-ola{
+    font-size: 50px;
+}
+
+h3.subhead-sobre{
+    font-size: 20px;
+    margin-top: -10px;
 }
 
 /* h1 */
@@ -45,10 +66,46 @@ h1.display-2.display-2--light{
 }
 
 h1.display-2{
-    font-size: 30px;
+    font-size: 22px;
+    margin-top: -10px;
 }
 
+h1.display-1.display-1--light{
+    font-size: 70px;
+}
+
+h1.oquefazemos{
+   
+    background-image: linear-gradient(to bottom, rgb(2505, 200, 0), rgb(255, 210, 0), rgb(255, 180, 0));
+    color: black;
+    background-clip: text;
+    -webkit-background-clip: text;
+  
+    /* Adicionado: */
+    -webkit-text-fill-color: transparent;
+    font-size: 40px;   
+}
 /* span */
 span.motivos{
     font-size: 30px !important;
 }
+
+/* section */
+section.s-about{
+    background-image: linear-gradient(to bottom, rgb(255, 255, 0), rgb(255, 210, 0), rgb(255, 180, 0));
+}
+
+svg.svg-inline--fa.fa-whatsapp{
+    height: 50px !important;
+}
+
+svg.svg-inline--fa.fa-instagram{
+    height: 50px !important;
+    margin-top: 35px;
+}
+
+svg.svg-inline--fa.fa-facebook-f{
+    height: 50px !important;
+}
+
+
