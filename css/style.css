@@ -7,7 +7,7 @@
 /* svg */
 svg{
     width: 45px !important;
-    color: rgb(2505, 200, 0);
+    color: #744d9a;
 }
 
 /* p */
@@ -37,7 +37,7 @@ h3.subhead-trabalhos {
 
 h3.subhead-clientes{
     font-size: 45px;
-    background-image: linear-gradient(to bottom, rgb(2505, 200, 0), rgb(255, 210, 0), rgb(255, 180, 0));
+    background-image: linear-gradient(to bottom, #744d9a, #40b6e8);
     color: black;
     background-clip: text;
     -webkit-background-clip: text;
@@ -48,7 +48,7 @@ h3.subhead-clientes{
 
 h3.subhead-contato {
     font-size: 35px !important;
-    color: #e5ff00;
+    color: #40b6e8;
 }
 
 h3.subhead-ola{
@@ -76,7 +76,7 @@ h1.display-1.display-1--light{
 
 h1.oquefazemos{
    
-    background-image: linear-gradient(to bottom, rgb(2505, 200, 0), rgb(255, 210, 0), rgb(255, 180, 0));
+    background-image: linear-gradient(to bottom, #744d9a, #40b6e8);
     color: black;
     background-clip: text;
     -webkit-background-clip: text;
@@ -92,7 +92,7 @@ span.motivos{
 
 /* section */
 section.s-about{
-    background-image: linear-gradient(to bottom, rgb(255, 255, 0), rgb(255, 210, 0), rgb(255, 180, 0));
+    background-image: linear-gradient(to bottom, #744d9a, #40b6e8);
 }
 
 svg.svg-inline--fa.fa-whatsapp{
